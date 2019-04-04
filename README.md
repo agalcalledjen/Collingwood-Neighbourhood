@@ -76,6 +76,6 @@ The project went through the UX/UI design process before it was handed off to us
 ## Contributors
 
 - **Michael Dunk** - [GitHub](https://github.com/mikedd96) | [LinkedIn](https://www.linkedin.com/in/michael-dunk-991952175/)
-- **Jennifer Lam** - [GitHub](https://github.com/agalcalledjen) | [LinkedIn](https://www.linkedin.com/in/agalcalledjen/)
+- **Jen Lam** - [GitHub](https://github.com/agalcalledjen) | [LinkedIn](https://www.linkedin.com/in/agalcalledjen/)
 - **Kyle Tescon** - [GitHub](https://github.com/kyltec) | [LinkedIn](https://www.linkedin.com/in/kyle-tecson-9b6952175/)
 - **Matthew Wong** - [GitHub](https://github.com/matthewaramis) | [LinkedIn](https://www.linkedin.com/in/matthew-wong-142953175/)
