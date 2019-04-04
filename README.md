@@ -1,53 +1,79 @@
-# Collingwood Neighbourhood House Theme
+# Collingwood Neighbourhood House (WordPress Theme) 🥗⛹🏻‍🎨
 
-Built by
-**Michael Dunk** | _mike_4596@hotmail.com_
-**Jennifer Lam** | _lam.jennifer.ky@gmail.com_
-**Kyle Tecson** | _kyltecs@gmail.com_
-**Matthew Wong** | _matthew.aramis@gmail.com_
+A responsive multi-page website for Collingwood Neighbourhood House and it includes custom post-types. It uses WordPress as a content management system.
 
-<img src="/themes/cnh/assets/images/README_Screenshots/cnh_desktop.png" alt="a picture of the front page for desktop" width="1200px" height="600px">
+## (The WordPress starter theme is for RED Academy students and it was forked from Underscores.)
 
-<img src="/themes/cnh/assets/images/README_Screenshots/cnh_mobile.png" alt="a picture of the front page for mobile" width="400px" height="662px">
+![Image of CNH Theme](https://github.com/agalcalledjen/cnh-fall-2018/themes/cnh/assets/images/README_Screenshots/instructions3.png)
 
-This theme was built for the Collingwood Neighbourhood House Wordpress website. It was built as a part of the Community Partners initiative during our Web Development program at RED Academy. It includes a mobile, tablet, and desktop version.
+<p align="center"><img src="https://github.com/agalcalledjen/cnh-fall-2018/blob/master/cnh-2018.gif"></p>
+
+---
+
+## Installation
+
+Download and do not clone.
+
+Add < project > to your `wp-content` directory.
+
+Rename the project directory, if needed and make sure that the theme directory name is project appropriate.
+
+Install dependencies inside of theme directory.
+
+```
+npm install
+```
+
+Update the proxy in `gulpfile.js` with the appropriate URL for the Browsersync (change `localhost[:port-here]/[your-dir-name-here]` to the appropriate localhost URL).
+
+---
 
 ## Technologies Used
 
-**Built with:**
-
+- HTML
+- CSS
+- JavaScript
+  - jQuery
+    - Selectric
+    - Spectragram
+- MAMP
 - PHP
-- SCSS
-- jQuery/Javascript
-- Wordpress
-- Selectric
-- Spectragram
+- WordPress
+  - Plugins:
+    - Show Current Template
+    - Akismet Anti-Spam
+    - Contact Form 7
+    - Custom Field Suite
+    - Debug Bar
+    - Gutenberg
+    - Kint Debugger
+    - Query Monitor
+    - Theme Check
+    - WP Migrate DB Pro
+      - Media Files Addon
+    - CNH Functionality
+    - Custom Sidebars
+    - Google Language Translator
+    - Safe SVG
+    - The Events Calendar
+    - Yoast SEO
+  - Generate WP
 
-**Wordpress Plugins:**
+---
 
-- Akismet Anti-Spam
-- Collingwood Neighbourhood House Functionality
-- Contact Form 7
-- Custom Field Suite
-- Custom Sidebars
-- Google Language Translator
-- Gutenberg
-- Safe SVG
-- Show Current Template
-- The Events Calendar
-- WP Migrate DB Pro
-- WP Migrate DB Pro Media Files
-- Yoast SEO
+## Personal Learnings
 
-## Installation Instructions
+### WDP(Community Group Project)
 
-**1. Download**
+This is a group project produced from what we had learnt throughout the semester.
 
-Insert contents of downloaded folder into your `wp-content` directory.
+The project went through the UX/UI design process before it was handed off to us to build a live, functioning version.
 
-**2. Apply Theme**
-Assign the theme by logging into Wordpress as an admin. Select Appearance -> Themes in the sidebar, and click "Activate" on Collingwood Starter House theme.
+---
 
-<img src="/themes/cnh/assets/images/README_Screenshots/instructions3.png" alt="a picture demonstrating where to activate the theme" width="1250px" height="600px">
+## Contributors
 
-**That's all!** Thanks for viewing our theme.
+- **Michael Dunk** - [GitHub](https://github.com/mikedd96) | [LinkedIn](https://www.linkedin.com/in/michael-dunk-991952175/)
+- **Jennifer Lam** - [GitHub](https://github.com/agalcalledjen) | [LinkedIn](https://www.linkedin.com/in/agalcalledjen/)
+- **Kyle Tescon** - [GitHub](https://github.com/kyltec) | [LinkedIn](https://www.linkedin.com/in/kyle-tecson-9b6952175/)
+- **Matthew Wong** - [GitHub](https://github.com/matthewaramis) | [LinkedIn](https://www.linkedin.com/in/matthew-wong-142953175/)
