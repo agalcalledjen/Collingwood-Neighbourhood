@@ -2,7 +2,9 @@
 
 A responsive multi-page website for Collingwood Neighbourhood House and it includes custom post-types. It uses WordPress as a content management system.
 
-## (The WordPress starter theme is for RED Academy students and it was forked from Underscores.)
+(The WordPress starter theme is for RED Academy students and it was forked from Underscores.)
+
+---
 
 ![Image of CNH Theme](https://github.com/agalcalledjen/cnh-fall-2018/blob/master/themes/cnh/assets/images/README_Screenshots/instructions3.png)
 
