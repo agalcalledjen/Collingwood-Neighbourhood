@@ -1,4 +1,5 @@
-# Collingwood Neighbourhood House (WordPress Theme) 🥗⛹🏻‍🎨
+# Collingwood Neighbourhood House 
+# (WordPress Theme) 🥗⛹🏻‍🎨
 
 A responsive multi-page website for Collingwood Neighbourhood House and it includes custom post-types. It uses WordPress as a content management system.
 
