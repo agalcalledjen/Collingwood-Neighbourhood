@@ -1,6 +1,6 @@
 # Collingwood Neighbourhood House (WordPress Theme) 🥗⛹🎨
 
-A responsive multi-page website for Collingwood Neighbourhood House and it includes custom post-types. It uses WordPress as a content management system.
+A responsive multi-page website for [Collingwood Neighbourhood House](https://www.cnh.bc.ca/) and it includes custom post-types. It uses WordPress as a content management system.
 
 (The WordPress starter theme is for RED Academy students and it was forked from Underscores.)
 
